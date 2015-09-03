@@ -17,7 +17,7 @@ table.tablesaw {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
-  padding: .5em .7em;
+ # padding: .5em .7em;
 }
 .tablesaw thead tr:first-child th {
   padding-top: .9em;
